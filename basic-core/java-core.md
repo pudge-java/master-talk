@@ -2,7 +2,7 @@
 * List
 	* [ArrayList](pdf/ArrayList源码分析.pdf) 
 	* [LinkedList](linkedList.md) 
-	* [CopyOnWriteArrayList](copyOnWriteArrayList.md)
+	* [CopyOnWriteArrayList](https://www.jianshu.com/p/20f346a19c62)
 	
 * Map
 	* [HashMap](hashMap.md)
