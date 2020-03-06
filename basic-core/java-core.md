@@ -5,7 +5,7 @@
 	* [CopyOnWriteArrayList](https://www.jianshu.com/p/20f346a19c62)
 	
 * Map
-	* [HashMap](hashMap.md)
+	* [HashMap](https://www.jianshu.com/p/fc4413403dde)
 	* [LinkedHashMap](linkedHashMap.md)
 	* [ConcurrentHashMap](concurrentHashMap.md)
 * 线程
