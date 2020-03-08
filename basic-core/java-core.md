@@ -6,7 +6,7 @@
 	
 * Map
 	* [HashMap](https://www.jianshu.com/p/fc4413403dde)
-	* [LinkedHashMap](linkedHashMap.md)
+	* [LinkedHashMap](https://www.jianshu.com/p/203d3b9c648c)
 	* [ConcurrentHashMap](concurrentHashMap.md)
 * 线程
 
